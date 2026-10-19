@@ -1,0 +1,6 @@
+{
+  "name": "Razmik Football Speaking Club",
+  "description": "⚽ RAZMIK FOOTBALL SPEAKING CLUB — ¡Habla español y gana! Interactive football video game for learning Spanish and Armenian through football matches, penalties, dialogues, and championships.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
